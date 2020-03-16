@@ -35,11 +35,7 @@ import java.util.ResourceBundle;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * FXML Controller class
- *
- * @author ranjith-suranga
- */
+
 public class MainFormController implements Initializable {
 
     public ProgressIndicator pgb;
